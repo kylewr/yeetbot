@@ -4,3 +4,8 @@ link is here: https://discord.com/api/oauth2/authorize?client_id=713188411095121
 requires admin perms
 does not ban/kick as of right now
 most likely it will be offline
+
+
+
+we need more documentation of yeetbot lol
+and some code
